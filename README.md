@@ -18,7 +18,7 @@
 
 <h3 align="left">I'm Tanja, full-stack developer from 🇲🇪</h3>
 
-- 🌱 Currently learning Web Development and other programming languages
+- 🌱 Currently exploring Web Development
 
 - 📫 You can reach me at **nedoder89@gmail.com**
 
