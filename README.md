@@ -118,6 +118,10 @@
   </a>
 
    <a>
+    <img alt="Celery" src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4">
+  </a>
+
+   <a>
     <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
   </a>
 
