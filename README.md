@@ -28,7 +28,7 @@
 
 <h2>:computer: Tech stack</h2>
 
-<p align="left">
+<p align="left" width="50%" height="auto">
   <a>
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
