@@ -12,9 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=anedoder&label=Profile%20views&color=0e75b6&style=flat" alt="nedoder" /> 
 </p>
 
-<p>
-  <img align="right" src="https://github.com/nedoder/nedoder/blob/main/coding.gif" alt="adam-pw" width="50%" height="auto" />
-</p>
+
 
 <h3 align="left">I'm Tanja, full-stack developer from 🇲🇪</h3>
 
@@ -27,6 +25,10 @@
 <br>
 
 <h2>:computer: Tech stack</h2>
+
+<p>
+  <img align="right" src="https://github.com/nedoder/nedoder/blob/main/coding.gif" alt="adam-pw" width="50%" height="auto" />
+</p>
 
 <p align="left" width="50%" height="auto">
   <a>
